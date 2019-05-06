@@ -1,0 +1,1 @@
+este algoritmo recibe datos de figuras geometricas y calcula el area 
